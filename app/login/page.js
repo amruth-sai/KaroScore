@@ -17,7 +17,7 @@ const Login = () => {
       body: JSON.stringify({ username, password }),
     });
     if (res.ok) {
-      router.push('/');
+        router.push('/student');
     } else {
       alert('Login failed');
     }

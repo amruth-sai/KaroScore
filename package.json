@@ -11,8 +11,10 @@
   "dependencies": {
     "mysql2": "^3.11.3",
     "next": "14.2.14",
+    "razorpay": "^2.9.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "eslint": "^8",
